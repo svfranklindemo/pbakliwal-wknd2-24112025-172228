@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/language-masters/en:/",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/language-masters/en/:/",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/language-masters/en/:/en/",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/configuration:/.helix/config.json",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/metadata:/metadata.json",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/redirects:/redirects.json",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/placeholders:/placeholders.json",
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/pbakliwal-pbakliwal-2025-11-24-22-52-25/",
+    "/content/dam/pbakliwal-pbakliwal-2025-11-24-22-52-25/"
   ]
 }
